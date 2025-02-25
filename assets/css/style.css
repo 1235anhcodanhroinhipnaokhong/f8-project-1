@@ -147,7 +147,7 @@ a {
   min-width: 170px;
   margin-top: 40px;
 }
-.hero-wrap-cta {
+.hero-wrap-img {
   position: absolute;
   right: calc((100vw - 1110px) / 2 - 100px);
   bottom: 0;
